@@ -12,7 +12,7 @@ Cybersecurity specialist from Amman. Data privacy trainee at Devoteam by day (Sa
 - :trophy: **CPTC v11**: EMEA regional **1st**, global **2nd**. Cloud lead, AD co-lead. 72 hours, zero sleep.
 - :closed_lock_with_key: **eWPTX** &amp; **CRTP** certified
 - :page_facing_up: ctfd-whale security patch, PR merged upstream, CVE pending
-- :triangular_flag_on_post: 23 CTF challenges authored across 4 competitions, 200+ participants per event, 100+ students taught
+- :triangular_flag_on_post: 33 CTF challenges authored across 6 competitions, 200+ participants per event, 100+ students taught
 - :briefcase: pentest intern @ Umniah, tech lead @ PSUT Cybersecurity Club
 
 **what I build**
