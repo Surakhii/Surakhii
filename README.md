@@ -1,16 +1,17 @@
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com/?font=Georgia&size=28&pause=1200&color=1A1714&center=true&vCenter=true&width=620&lines=ayham+alsarkhi;security+engineer+%C2%B7+amman;AD+%C2%B7+web%2FAPI+%C2%B7+cloud+%C2%B7+android;CPTC+11+%E2%80%94+2nd+worldwide">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Georgia&size=28&pause=1200&color=1A1714&center=true&vCenter=true&width=620&lines=ayham+alsarkhi;security+engineer+%C2%B7+amman;AD+%C2%B7+web%2FAPI+%C2%B7+cloud+%C2%B7+android;CPTC+11+%E2%80%94+2nd+worldwide" alt="typing" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Georgia&size=28&pause=1200&color=FAF7F2&center=true&vCenter=true&width=620&lines=ayham+alsarkhi;security+%26+privacy+consultant+%C2%B7+amman;AD+%C2%B7+web%2FAPI+%C2%B7+cloud+%C2%B7+android+%C2%B7+bounty;CPTC+11+%E2%80%94+2nd+worldwide" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Georgia&size=28&pause=1200&color=1A1714&center=true&vCenter=true&width=620&lines=ayham+alsarkhi;security+%26+privacy+consultant+%C2%B7+amman;AD+%C2%B7+web%2FAPI+%C2%B7+cloud+%C2%B7+android+%C2%B7+bounty;CPTC+11+%E2%80%94+2nd+worldwide" alt="typing" />
+  </picture>
 </p>
 
-I break Active Directory on weekdays, build tools on weekends, and read too much in between.
+Security &amp; data privacy consultant at Devoteam by day, bug bounty hunter and toolsmith by night, CTF organizer when the club calls.
 
 <p align="center">
   <img src="https://img.shields.io/badge/CPTC%2011-2nd%20place%20worldwide-c4442a?style=flat-square" alt="CPTC" />
   <img src="https://img.shields.io/badge/eWPTX-certified-1a1714?style=flat-square" alt="eWPTX" />
+  <img src="https://img.shields.io/badge/CRTP-certified-1a1714?style=flat-square" alt="CRTP" />
   <img src="https://img.shields.io/badge/OSCP-in%20progress-8a8378?style=flat-square" alt="OSCP" />
-  <img src="https://img.shields.io/badge/focus-AD%20%C2%B7%20web%2FAPI%20%C2%B7%20cloud%20%C2%B7%20Android-faf7f2?style=flat-square&labelColor=1a1714" alt="focus" />
 </p>
 
 <p align="center">
@@ -18,9 +19,15 @@ I break Active Directory on weekdays, build tools on weekends, and read too much
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,bash,typescript&theme=light" alt="langs" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,c,bash,typescript&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,c,bash,typescript&theme=light" alt="langs" />
+  </picture>
   <br/>
-  <img src="https://skillicons.dev/icons?i=linux,docker,aws,git&theme=light" alt="infra" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,docker,aws,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,aws,git&theme=light" alt="infra" />
+  </picture>
 </p>
 
 <p align="center">
