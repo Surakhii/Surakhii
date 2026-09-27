@@ -1,11 +1,11 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Georgia&size=28&pause=1200&color=FAF7F2&center=true&vCenter=true&width=620&lines=ayham+alsarkhi;security+%26+privacy+consultant+%C2%B7+amman;AD+%C2%B7+web%2FAPI+%C2%B7+cloud+%C2%B7+android+%C2%B7+bounty;CPTC+11+%E2%80%94+2nd+worldwide" />
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Georgia&size=28&pause=1200&color=1A1714&center=true&vCenter=true&width=620&lines=ayham+alsarkhi;security+%26+privacy+consultant+%C2%B7+amman;AD+%C2%B7+web%2FAPI+%C2%B7+cloud+%C2%B7+android+%C2%B7+bounty;CPTC+11+%E2%80%94+2nd+worldwide" alt="typing" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Georgia&size=28&pause=1200&color=FAF7F2&center=true&vCenter=true&width=620&lines=ayham+alsarkhi;cybersecurity+specialist+%C2%B7+amman;AD+%C2%B7+web%2FAPI+%C2%B7+cloud+%C2%B7+android+%C2%B7+bounty;CPTC+11+%E2%80%94+2nd+worldwide" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Georgia&size=28&pause=1200&color=1A1714&center=true&vCenter=true&width=620&lines=ayham+alsarkhi;cybersecurity+specialist+%C2%B7+amman;AD+%C2%B7+web%2FAPI+%C2%B7+cloud+%C2%B7+android+%C2%B7+bounty;CPTC+11+%E2%80%94+2nd+worldwide" alt="typing" />
   </picture>
 </p>
 
-Security &amp; data privacy consultant at Devoteam by day, bug bounty hunter and toolsmith by night, CTF organizer when the club calls.
+Cybersecurity specialist. Data privacy trainee at Devoteam (Saudi PDPL, RoPAs, the legal-technical translation layer) by day, bug bounty hunter and toolsmith by night, CTF organizer when the club calls.
 
 <p align="center">
   <img src="https://img.shields.io/badge/CPTC%2011-2nd%20place%20worldwide-c4442a?style=flat-square" alt="CPTC" />
